@@ -100,7 +100,7 @@ input:focus, textarea:focus {
 
 .background {
   background: #466173;
-  background-image: url('./images/background.png');
+  background-image: url('../images/background.png');
   background-size: cover;
 }
 
